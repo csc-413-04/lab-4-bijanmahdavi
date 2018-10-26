@@ -1,4 +1,5 @@
 export const doTest = () => ({
     type: 'SET_TEST',
-    test: 'some text',
+    test: 'Bijan 2',
+    color: 'blue',
 });
